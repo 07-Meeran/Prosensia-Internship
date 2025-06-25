@@ -1,5 +1,3 @@
-# Internship-Tasks
-
 # Prosensia Internship Tasks  
 A collection of C++ programs submitted as part of my internship onboarding.
 
