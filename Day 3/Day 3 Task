@@ -1,3 +1,10 @@
+Write a C++ program that:
+
+• Takes user input: name, age, and CGPA
+• Checks if the person is eligible to apply (age ≥ 18 and CGPA ≥ 2.5)
+• Outputs customized message using if/else logic
+
+
 #include <iostream>
 using namespace std;
 
