@@ -58,3 +58,25 @@ This program takes user input for:
 
 It then checks if the user is eligible to apply (Age ≥ 18 **and** CGPA ≥ 2.5) and prints a custom message using `if/else` statements.
 
+##Day 4 Tasks:
+
+📌 Task Overview
+
+Today’s task focused on:
+
+Practicing loops (for, while)
+Reversing a number
+Checking if a number is prime
+📄 Programs Included
+
+Reverse a Number
+
+Input: Any integer
+Output: Reversed digits
+Loop Used: while and for (alternative)
+Prime Number Checker
+
+Input: Any integer
+Output: Tells whether it is prime or not
+Loop Used: for
+
