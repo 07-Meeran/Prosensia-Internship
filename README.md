@@ -103,3 +103,18 @@ Enter a number to find factorial: 5 Factorial of 5 is 120
 
 Enter three integers to find the maximum: 11 9 27 The maximum number is: 27
 
+#Day 6 
+💻 ProSensia C++ Internship – Day 6
+
+📌 Task: Intelligent Array Analyzer
+
+This simple C++ program performs the following:
+- Takes input of **5 integers**
+- Calculates:
+  - ✅ Sum of all numbers
+  - ✅ Average (2 decimal places)
+  - ✅ Maximum and minimum values with their positions (1-based)
+- Reorders the array to show:
+  - ✅ Even numbers first, then odd numbers
+  - ✅ Original order preserved in both sections
+
